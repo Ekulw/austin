@@ -33,13 +33,13 @@ li{
   height:1000px;
   width:50px;
   float:left;
-  margin-top:0px;
+  margin-top:-50px;
 }
 #right{
   height:1000px;
   width:50px;
   float:right;
-  margin-top:0px;
+  margin-top:-50px;
 }
 #footer{
   height:50px;

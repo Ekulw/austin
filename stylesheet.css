@@ -29,3 +29,17 @@ li{
   color:red;
   border:5px solid red;
 }
+#left{
+  height:1000px;
+  width:50px;
+  float:left;
+}
+#right{
+  height:1000px;
+  width:50px;
+  float:right;
+}
+#footer{
+  height:50px;
+  position:relative;
+}

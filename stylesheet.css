@@ -5,3 +5,11 @@ div{
   border:5px solid black;
   border-radius:5px;
 }
+ul{
+  list-style-type:none;
+  position:fixed;
+}
+li{
+  display:inline;
+  
+}

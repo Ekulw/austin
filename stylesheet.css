@@ -25,7 +25,6 @@ ul{
 }
 li{
   display:inline;
-  position:fixed;
   background-color:black;
   color:red;
   border:5px solid black;

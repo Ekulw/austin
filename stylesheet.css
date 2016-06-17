@@ -12,6 +12,7 @@ div{
   position:fixed;
   top:10px;
   left:50%;
+  width:1000px;
 }
 #header{
   width:300px;

@@ -13,6 +13,9 @@ div{
   top:10px;
   left:50%;
 }
+#header{
+  width:300px;
+}
 ul{
   list-style-type:none;
   position:fixed;

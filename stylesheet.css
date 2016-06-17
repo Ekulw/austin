@@ -29,7 +29,8 @@ li{
   color:red;
   border:5px solid black;
   font-size:2ems;
-  margin-left:10px;
+  margin-left:50px;
+  border-radius:5px;
 }
 #left{
   height:1000px;

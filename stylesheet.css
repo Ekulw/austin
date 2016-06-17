@@ -10,7 +10,7 @@ div{
   position:fixed;
   height:50px;
   top:10px;
-  margin-right:500px;
+  margin-left:-1000px;
   
   width:1000px;
 }

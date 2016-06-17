@@ -11,8 +11,7 @@ div{
   height:50px;
   top:10px;
   left:0%;
-  margin-left:10px;
-  margin-right:10px;
+  width:1500px;
 }
 #header{
   position:relative;

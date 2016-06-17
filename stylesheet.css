@@ -11,8 +11,8 @@ div{
 #navbar{
   position:fixed;
   top:10px;
-  left:50%;
-  width:1000px;
+  left:10%;
+  right:10%;
 }
 #header{
   width:300px;

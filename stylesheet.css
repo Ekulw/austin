@@ -4,12 +4,14 @@ body{
 div{
   background-color:red;
   border:5px solid black;
-  border-radius:5px;
+  border-radius:15px;
 }
 #navbar{
   position:fixed;
   height:50px;
   top:10px;
+  left:50%
+  margin-left:-254px;
   width:1000px;
 }
 #header{

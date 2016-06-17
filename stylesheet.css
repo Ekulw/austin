@@ -1,5 +1,5 @@
 body{
-  background-color:purple;
+  background-color:red;
 }
 div{
   background-color:red;
@@ -29,7 +29,7 @@ li{
   color:red;
   border:5px solid black;
   font-size:2ems;
-  margin-left:100px;
+  margin-left:125px;
   border-radius:5px;
 }
 #left{

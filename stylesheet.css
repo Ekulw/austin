@@ -15,6 +15,7 @@ div{
 }
 #header{
   width:300px;
+  text-align:center;
 }
 ul{
   list-style-type:none;

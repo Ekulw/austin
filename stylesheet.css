@@ -27,7 +27,9 @@ li{
   display:inline;
   background-color:black;
   color:red;
-  border:5px solid red;
+  border:5px solid black;
+  font-size:2ems;
+  margin-left:10px;
 }
 #left{
   height:1000px;

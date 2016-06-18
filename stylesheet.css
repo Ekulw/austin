@@ -10,12 +10,13 @@ div{
     background-color:red;
     position:fixed;
     z-index:1;
-    border:3px solid black
+    border:3px solid black;
 }
 #header h1{
     float:left;
     margin-left:10px;
-    margin-top:10px
+    margin-top:10px;
+    font-family:Courier;
 }
 #header h3{
     float:right;

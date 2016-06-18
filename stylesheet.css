@@ -54,7 +54,5 @@ a{
   text-decoration:none;
 }
 a:hover{
-  text-decoration:bold;
-}
-}
+  font-weight:bolder;
 }

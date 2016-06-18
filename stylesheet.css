@@ -5,7 +5,7 @@ div{
     border-radius:5px;
 }
 #header{
-    width:100%;
+    width:97.5%;
     height:60px;
     background-color:red;
     position:fixed;
@@ -43,4 +43,5 @@ div{
     width:100%;
     position:relative;
     top:10px;
+    margin-bottom:10px;
 }

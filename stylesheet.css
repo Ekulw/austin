@@ -10,7 +10,7 @@ div{
     background-color:red;
     position:fixed;
     z-index:1;
-    border:3px solid black
+    border:5px solid black
 }
 #header h1{
     float:left;
@@ -27,6 +27,7 @@ div{
     background-color:red;
     float:left;
     margin-top:70px
+    border:5px solid black;
 }
 .right{
     width:88%;
@@ -35,6 +36,7 @@ div{
     float:right;
     padding-left:10px;
     margin-top:70px
+    border:5px solid black;
 }
 #footer{
     height:50px;
@@ -44,4 +46,5 @@ div{
     position:relative;
     top:10px;
     margin-bottom:10px;
+    border:5px solid black;
 }

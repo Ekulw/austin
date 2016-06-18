@@ -1,58 +1,46 @@
 body{
-  background-color:#3b444b;
+    background-color:#3b444b;
 }
 div{
-  background-color:red;
-  border:5px solid black;
-  border-radius:15px;
-}
-#navbar{
-  position:fixed;
-  height:50px;
-  top:10px;
-  left:12.5%;
-  width:1000px;
+    border-radius:5px;
 }
 #header{
-  position:relative;
-  text-align:center;
-  margin-top:100px;
-  height:50px;
+    width:95%;
+    height:60px;
+    background-color:red;
+    position:fixed;
+    z-index:1;
+    border:3px solid black
 }
-ul{
-  list-style-type:none;
-  position:fixed;
+#header h1{
+    float:left;
+    margin-left:10px;
+    margin-top:10px
 }
-li{
-  display:inline-block;
-  background-color:black;
-  color:red;
-  border:5px solid black;
-  font-size:2ems;
-  margin-left:135px;
-  border-radius:5px;
+#header h3{
+    float:right;
+    margin-right:10px;
 }
-#left{
-  height:1000px;
-  width:150px;
-  float:left;
-  margin-top:0px;
+.left{
+    width:10%;
+    height:400px;
+    background-color:red;
+    float:left;
+    margin-top:70px
 }
-#right{
-  height:1000px;
-  width:150px;
-  float:right;
-  margin-top:0px;
+.right{
+    width:85%;
+    height:400px;
+    background-color:red;
+    float:right;
+    padding-left:10px;
+    margin-top:70px
 }
 #footer{
-  height:150px;
-  position:relative;
-  margin-top:1000px;
-}
-a{
-  color:red;
-  text-decoration:none;
-}
-a:hover{
-  font-weight:bolder;
+    height:50px;
+    background-color:red;
+    clear:both;
+    width:100%;
+    position:relative;
+    top:10px;
 }

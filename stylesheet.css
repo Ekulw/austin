@@ -49,3 +49,12 @@ li{
   position:relative;
   margin-top:1000px;
 }
+a{
+  color:red;
+  text-decoration:none;
+}
+a:hover{
+  text-decoration:bold;
+}
+}
+}

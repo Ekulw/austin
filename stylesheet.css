@@ -7,7 +7,7 @@ div{
 #header{
     width:98.5%;
     height:60px;
-    background-color:purple;
+    background-color:#002e63;
     position:fixed;
     z-index:1;
     border:3px solid black;

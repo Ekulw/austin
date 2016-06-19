@@ -7,7 +7,7 @@ div{
 #header{
     width:98.5%;
     height:60px;
-    background-color:red;
+    background-color:purple;
     position:fixed;
     z-index:1;
     border:3px solid black;
@@ -25,21 +25,21 @@ div{
 .left{
     width:10%;
     height:1000px;
-    background-color:red;
+    background-color:purple;
     float:left;
     margin-top:80px
 }
 .right{
     width:88%;
     height:1000px;
-    background-color:red;
+    background-color:purple;
     float:right;
     padding-left:10px;
     margin-top:80px
 }
 #footer{
     height:50px;
-    background-color:red;
+    background-color:purple;
     clear:both;
     width:100%;
     position:relative;

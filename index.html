@@ -12,7 +12,16 @@
 	<div class="left"></div>
 	<div class="right">
 	    <h3>Hi</h3>
-	    <p>Luke</p>
+	    <p id="test"></p>
+	    <script>
+		    fetch('./test.json', { 
+			  method: 'GET'
+			})
+			.then(function(response) { return response.json(); })
+			.then(function(json) {
+			  document.getElementById("test").innerHTML = json;
+			});
+	    </script>
 	    <ul>
 	    <li>Austin</p>
 	    <li>Austin</p>

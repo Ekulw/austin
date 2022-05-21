@@ -19,7 +19,7 @@
 			})
 			.then(function(response) { return response.json(); })
 			.then(function(json) {
-			  document.getElementById("test").innerHTML = json;
+			  document.getElementById("test").innerHTML = json.leadership[0].firstName;
 			});
 	    </script>
 	    <ul>

@@ -1,0 +1,14 @@
+{
+    "leadership": [
+        {
+            "position": "President",
+            "firstName": "Jonathan",
+            "lastName": "Heidegger"
+        },
+        {
+            "position": "Vice President",
+            "firstName": "Ethan",
+            "lastName": "Brooks"
+        }
+    ]
+}
